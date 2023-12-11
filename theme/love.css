@@ -10,7 +10,7 @@ h1 {
 body {
     background-image: url(background.jpg);
     background-repeat: no-repeat;
-    background-size: auto 500%;
+    background-size: 100% 300%;
     font-family: arial;
     margin: 0;
     padding: none;
