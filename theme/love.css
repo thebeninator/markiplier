@@ -9,7 +9,7 @@ h1 {
 
 body {
     background-image: url(background.jpg), url(bgpattern.png);
-    background-repeat: no-repeat, repeat;
+    background-repeat: repeat-y, repeat;
     background-size: 379px 960px, auto 960px;
     font-family: arial;
     margin: 0;
